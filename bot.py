@@ -11,8 +11,8 @@ SYMBOL = 'SOLUSDT'
 RSI_P, WMA_P = 20, 13
 
 stats = {
-    "balance": 120.41, "risk_percent": 0.02, "total_trades": 99,
-    "wins_final": 13, "wins_trailed": 27, "losses": 59
+    "balance": 96.20, "risk_percent": 0.02, "total_trades": 180,
+    "wins_final": 16, "wins_trailed": 53, "losses": 110
 }
 
 active_trade = None
